@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Bharti Attri
+# <div align="center">✨ Bharti Attri ✨</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineer;React+Specialist;JavaScript+Developer;Building+Impactful+Products+🚀&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineer;React+Specialist;JavaScript+Developer;Building+Scalable+Web+Apps+🚀&center=true&width=600&height=50">
 </p>
 
 <p align="center">
@@ -20,21 +20,24 @@
 
 ## 🚀 About Me
 
-💻 Frontend Engineer focused on building **scalable, high-performance web applications**
-⚛️ Specialized in **React, JavaScript, and modern UI architecture**
-🧠 Strong foundation in **Data Structures & Problem Solving**
-☁️ Exploring **cloud deployment and system design**
-🎯 Targeting product-based companies and impactful engineering teams
+```diff
++ Frontend Engineer focused on scalable, high-performance applications
++ Specialized in React, JavaScript, and modern UI architecture
++ Strong foundation in Data Structures & Problem Solving
++ Exploring Cloud, System Design, and Next.js ecosystem
+```
+
+🎯 **Goal:** Build impactful products at scale in product-based companies.
 
 ---
 
-## 🧩 What I Bring
+## 🧩 Core Strengths
 
-* ✨ Clean, maintainable frontend architecture
-* ⚡ Performance-optimized React applications
-* 📱 Fully responsive and accessible UI
-* 🔐 Secure authentication flows
-* 🚀 Fast learner with strong debugging skills
+✨ Clean and maintainable frontend architecture
+⚡ Performance-optimized React applications
+📱 Fully responsive & accessible UI
+🔐 Secure authentication flows
+🚀 Fast learner with strong debugging mindset
 
 ---
 
@@ -72,30 +75,30 @@
 
 ### 🔹 Task Manager Web App
 
-High-performance task tracking app with real-time updates.
 **Stack:** React • Node.js • MongoDB
-✅ Responsive UI
-✅ REST API integration
-✅ Optimized rendering
+
+* Real-time task updates
+* Optimized rendering
+* Responsive UI
 
 ---
 
 ### 🔹 Local Business E-commerce Platform
 
-Marketplace connecting local sellers and buyers.
 **Stack:** JavaScript • Node.js • MySQL
-✅ Secure authentication
-✅ Product filtering
-✅ Mobile-first design
+
+* Secure authentication
+* Product filtering
+* Mobile-first design
 
 ---
 
 ### 🔹 Fitness Tracking App
 
-Smart fitness analytics and recommendations.
 **Stack:** Java / Python
-✅ Activity insights
-✅ Personalized dashboard
+
+* Activity insights
+* Personalized dashboard
 
 ---
 
@@ -123,15 +126,7 @@ Smart fitness analytics and recommendations.
 
 ---
 
-## 🧠 Problem Solving
-
-* 🔹 Practicing Data Structures & Algorithms
-* 🔹 Active on LeetCode (add profile link if available)
-* 🔹 Focus on patterns & optimization
-
----
-
-## 🌱 Currently Learning (2026 Market Focus)
+## 🧠 Currently Learning (2026 Focus)
 
 * TypeScript
 * Advanced React Patterns
@@ -149,4 +144,8 @@ Smart fitness analytics and recommendations.
 
 ---
 
-⭐ *Building today for the scale of tomorrow.*
+<div align="center">
+
+⭐ **"Building today for the scale of tomorrow."**
+
+</div>
