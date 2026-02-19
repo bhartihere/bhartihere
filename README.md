@@ -108,8 +108,11 @@
 ## 📊 GitHub Intelligence
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhartihere&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhartihere&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhartihere&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhartihere&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
