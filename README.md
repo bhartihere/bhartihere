@@ -1,15 +1,20 @@
-# <div align="center">✨ Bharti Attri ✨</div>
+<!-- ======================= ELITE GITHUB PROFILE ======================= -->
+
+<h1 align="center">✨ Bharti Attri ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineer;React+Specialist;JavaScript+Developer;Building+Scalable+Web+Apps+🚀&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Frontend+Engineer;React+%26+JavaScript+Specialist;Building+Beautiful+%26+Scalable+Web+Apps;Always+Learning+🚀" />
 </p>
 
 <p align="center">
   <a href="https://github.com/bhartihere">
-    <img src="https://komarev.com/ghpvc/?username=bhartihere&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=bhartihere&label=Profile%20Views&color=6C63FF&style=flat" />
   </a>
   <a href="https://github.com/bhartihere">
     <img src="https://img.shields.io/github/followers/bhartihere?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/bhartihere">
+    <img src="https://img.shields.io/github/stars/bhartihere?affiliations=OWNER%2CCOLLABORATOR&style=social" />
   </a>
 </p>
 
@@ -17,28 +22,32 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ```diff
-+ Frontend Engineer focused on scalable, high-performance applications
-+ Specialized in React, JavaScript, and modern UI architecture
-+ Strong foundation in Data Structures & Problem Solving
-+ Exploring Cloud, System Design, and Next.js ecosystem
++ Frontend Engineer crafting fast, scalable, and beautiful web experiences
++ Deep focus on React ecosystem and modern JavaScript
++ Strong problem-solving mindset with DSA foundation
++ Exploring System Design, Next.js, and Cloud
++ Mission: Build products that impact millions of users
 ```
 
-🎯 **Goal:** Build impactful products at scale in product-based companies.
+<br clear="right"/>
 
 ---
 
-## 🧩 Core Strengths
+## 🧠 Engineering Mindset
 
-✨ Clean and maintainable frontend architecture
-⚡ Performance-optimized React applications
-📱 Fully responsive & accessible UI
-🔐 Secure authentication flows
-🚀 Fast learner with strong debugging mindset
+* 🧩 Component-driven architecture
+* ⚡ Performance-first development
+* 🎯 Pixel-perfect responsive UI
+* 🔐 Secure & clean authentication flows
+* 🧪 Debugging with data, not guesswork
+* 🚀 Continuous learner with growth mindset
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 ### 👩‍💻 Languages
 
@@ -47,14 +56,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 
-### 🎨 Frontend
+### 🎨 Frontend Excellence
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge)
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Data
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -68,38 +77,35 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Highlight Projects
 
 ### 🔹 Task Manager Web App
 
 **Stack:** React • Node.js • MongoDB
-
-* Real-time task updates
-* Optimized rendering
-* Responsive UI
+✔ Real-time updates
+✔ Optimized rendering
+✔ Responsive UI
 
 ---
 
 ### 🔹 Local Business E-commerce Platform
 
 **Stack:** JavaScript • Node.js • MySQL
-
-* Secure authentication
-* Product filtering
-* Mobile-first design
+✔ Secure authentication
+✔ Smart product filtering
+✔ Mobile-first UX
 
 ---
 
 ### 🔹 Fitness Tracking App
 
 **Stack:** Java / Python
-
-* Activity insights
-* Personalized dashboard
+✔ Activity analytics
+✔ Personalized insights
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Intelligence
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhartihere&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
@@ -115,7 +121,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhartihere/bhartihere/output/github-contribution-grid-snake.svg" />
@@ -123,26 +129,28 @@
 
 ---
 
-## 🧠 Currently Learning (2026 Focus)
+## 🧭 2026 Learning Roadmap
 
-* TypeScript
-* Advanced React Patterns
-* System Design
-* Next.js
-* AWS Deployment
-
----
-
-## 🤝 Connect With Me
-
-📧 **Email:** [bhartiattri693@gmail.com](mailto:bhartiattri693@gmail.com)
-💼 **LinkedIn:** https://www.linkedin.com/in/bharti-attri-296983230/
-🐙 **GitHub:** https://github.com/bhartihere
+* TypeScript mastery
+* Advanced React patterns
+* System Design fundamentals
+* Next.js production apps
+* AWS deployment pipelines
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-⭐ **"Building today for the scale of tomorrow."**
+<p align="center">
+  📧 <b>Email:</b> bhartiattri693@gmail.com  
+  <br/>
+  💼 <b>LinkedIn:</b> https://www.linkedin.com/in/bharti-attri-296983230/  
+  <br/>
+  🐙 <b>GitHub:</b> https://github.com/bhartihere  
+</p>
 
-</div>
+---
+
+<h3 align="center">⭐ Building today for the scale of tomorrow ⭐</h3>
+
+<!-- ======================= END ======================= -->
